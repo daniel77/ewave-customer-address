@@ -1,6 +1,5 @@
 package com.ewave.volvo.repository;
 
-import com.ewave.volvo.model.Address;
 import com.ewave.volvo.model.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
